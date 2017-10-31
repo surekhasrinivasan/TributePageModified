@@ -304,3 +304,14 @@
   304  git checkout index.html
   305  git log > gitLog.txt
   306  history > history.txt
+  307  git status
+  308  git add .
+  309  git status
+  310  git commit -m "my logs"
+  311  git status
+  312  git push -u origin master
+  313  git branch
+  314  git push origin myNotesBranch
+  315  git status
+  316  git log > gitLog.txt
+  317  history > history.txt
